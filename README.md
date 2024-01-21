@@ -1,63 +1,60 @@
 # Amal Manoj
-Ennasseril (h) Pampadumpara P.O Pampadumpara
-
-
-Idukki, Kerala, 685553 | +91 7907642676 | *amal.manoj.am@gmail.com* | [*GitHub: xbeastop*](https://github.com/xbeastop)
+Ennasseril (h) Pampadumpara P.O Pampadumpara <br>
+Idukki, Kerala, 685553 | +91 7907642676 | amal.manoj.am@gmail.com | [GitHub](https://github.com/xbeastop)
 
 ## Objective
-I'm a passionate developer who seek challenging opportunities where i can fully use my skills for the success of the organisation .
+I'm a passionate developer who seeks challenging opportunities where I can fully use my skills for the success of the organization.
+
+## Professional Experience
+#### Associate Software Engineer (Android) <br> LetMeDoIt Technologies, Ankamaly | April 2023 - Present
+- Actively participating in migrating legacy Java code to <b>Kotlin in an 8+ year-old project.</b>
+- Working with SDUI (Server Driven UI) on Views and <b>Jetpack compose</b>
+- Here I worked on XML, JSON, OCR, Google Maps SDK, Firebase GCM, WebSocket (SignalR), and REST API.
+- Background Services and Other Related Technologies
+
+## Projects
+#### PointCalc - Android App <br> Sep 2021 - Present | [Play store link](https://play.google.com/store/apps/details?id=com.pointcalc.global)
+- Independently developed and have been actively maintaining an Android app for the past <b>2 years</b>, leveraging modern Kotlin and IDE.
+- Proficient in Kotlin Flow and Live Data.
+- Experienced in Jetpack compose, Room, SQLite, DataStore, Paging 3, Dragger hilt, Multilingual, Firebase, Bitmap drawing
+- Strong understanding of multithreading, coroutines, concurrency, and memory management
+  
+#### Academic Project:<br> Student Management System | [GitHub](https://github.com/xbeastop/Project---Allotment)
+- Developed a web-based student allotment system using PHP and MySQL.
+- A real-world implementation of the college admission system (of my college)
 
 ## Education
-**Bachelor of Computer Applications (BCA)**
-
-- MES College, Nedumkandam *Completed in 2023*
-- CGPA 90
-
-**Higher Secondary Education (Plus Two)**
-*GHSS Kallar*  
-*Completed in 2019*
-
+| Degree                                   | School/College          | Year Completed | Grade/CGPA |
+|------------------------------------------|-------------------------|----------------|------------|
+| Bachelor of Computer Applications (BCA)   | MES College, Nedumkandam | 2023           | 90 CGPA    |
+| Higher Secondary Education (Plus Two)     | GHSS Kallar             | 2019           | 83%          |
+| Secondary School Leaving Certificate (SSLC) | GHSS Kallar             | 2017           | 98%        |
 
 
 ## Technical Skills
-
-- **Programming Languages:**
-  - Java 8
-  - Kotlin
-
 - **Development experience in:**
   - Android
-  - Desktop
-
-- **Reactive Programming:**
-  - Kotlin Flows and Coroutines
+  - Desktop (﻿Kotlin Multiplatform, Jetbrain's Compose Ui)
+  - Web (HTML, CSS, JS, PHP)
+    
+- **Programming Languages:**
+  - Kotlin
+  - Java 8+
+  - Javascript
+  - PHP
 
 - **Java:**
   - Solid foundation in Java basics (OOP, Exception handling, Lambdas, Pattern matching, and more)
-  - Experience in working with java stream API.
-  - _Note: I engage in asynchronous programming primarily in Kotlin, and my exploration in this area is fueled by my passion. I draw inspiration from talks by influential figures, including Sir Venkat Subramaniam._
-
-- **Web Technologies:**
-  - PHP
-  - HTML
-  - Java script
+  - Experience in working with Java stream API.
+  - inspired by tech talks, especially those by Sir Venkat Subramaniam
+ 
+- **Kotlin:**
+  - Active in the Kotlin community, participating in events like Advent of Code Kotlin, demonstrating a passion for collaborative learning.
+  - Strong grasp of modern Kotlin features, such as concise syntax, null safety, extension functions, and coroutines.
+  - Practical experience with Kotlin's expressive collections API.
 
 - **Database:**
   - MySQL
   - SQLite
-
-
-
-## Professional Experience
-### Associate Software Engineer (Android) | *LetMeDoIt Technologies*, Ankamaly | *April 2023* - Present
-- Leading the development and enhancement of Android applications using Java, Kotlin.
-- Working on SignalR Java client with RxJava for websocket communication, Ktor and OkHttp for Http communications.
-- Actively participating in migrating legacy Java code to Kotlin in an 8+ year-old project.
-
-## Projects
-### PointCalc - Android App | [*Play store link*](https://play.google.com/store/apps/details?id=com.pointcalc.global)
-- Independently Developed and maintained an Android app for the past two years, leveraging modern Kotlin features and Java streams for data processing.
-  
-### College Project: Student Management System | [*GitHub Repository Link*](https://github.com/xbeastop/Project---Allotment)
-- Developed a web-based student allotment system using PHP and MySQL.
+  - Firestore (NoSQL)
 
